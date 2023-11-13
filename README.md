@@ -1,4 +1,22 @@
-# Hamid Mahmood
-Profile Summary
+Hello, I'm Hamid Mahmood from Sweden, a professional Software Test Engineer with expertise and quality assurence and automatoin.
 
-Detail-oriented and experienced Software Test Engineer having manual and test automation expertise, with a stellar record of corporate client satisfaction and ability to work with the minimum of supervision. Having a proven ability to carry out the creation of test cases, appropriate implementation of individual tests, log outcomes and communicate the results to work colleagues and clients. Exceptional communication skills as a teacher and mentor to junior engineering staff and trainees.
+
+💻 I’m currently working on ... Automation Project
+📖 I’m currently learning ... Java and JavaScript
+🤝 I’m looking to collaborate on ... Any Testing Project
+📫 How to reach me... Send me an email with subject sadiasislam@outlook.com
+👩‍💻 Check Profiles... Sadia Islam Shoron
+⚡ Fun fact: No fun fact 🙂
+
+
+👨‍💻 Programming languages
+  
+
+🧰 Tools, frameworks and libraries
+                
+
+🗄️ Databases
+ 
+
+💻 Operational systems
+  
